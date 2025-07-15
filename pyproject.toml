@@ -3,7 +3,7 @@ name = "homework-sixteen"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Zaberuskina, Anna",email = "azaberuskina@prosv.ru"}
+    {name = "Zaberuskina, Anna",email = "zaberuskina@mail.ru"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
