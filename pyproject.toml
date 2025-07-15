@@ -1,0 +1,22 @@
+[project]
+name = "homework-sixteen"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Zaberuskina, Anna",email = "azaberuskina@prosv.ru"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pytest (>=8.4.1,<9.0.0)",
+    "selene (>=1.0.2,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+pylint = "^3.3.7"
+
